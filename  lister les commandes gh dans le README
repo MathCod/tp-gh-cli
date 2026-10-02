@@ -1,0 +1,15 @@
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/README.md b/README.md[m
+[1mindex d801bcb..f070f86 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,9 @@[m
+ # tp-gh-cli[m
+ Terrain d'essai pour GitHub CLI[m
+[32m+[m
+[32m+[m[32m## Commandes utilisées[m
+[32m+[m
+[32m+[m[32m- gh repo create[m
+[32m+[m[32m- gh issue create[m
+[32m+[m[32m- gh pr create[m
+[32m+[m[32m- gh pr merge[m
